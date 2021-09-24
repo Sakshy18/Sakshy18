@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sakshy18
+- 👋 Hi, I’m @Sakshi_Thombre currently studying in sophomore year at DYPCOE
 - 👀 I’m interested in coding especially python and cpp excite me
 
 - 🌱 I’m currently learning C ++
