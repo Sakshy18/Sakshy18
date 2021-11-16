@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding especially python and Cpp excites me.
 
 - 🌱 I’m currently learning C ++
-- 💞️ I’m looking to collaborate on projects related to designing.
+- 💞️ I’m looking to collaborate on projects related to designingand web dev.
 - 📫 How to reach me:you can reach me on my linkedin https://www.linkedin.com/in/sakshi-thombre-821600214
 
 <!---
