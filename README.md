@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Android development**
 
-- 💻 I enjoy web development and I am also interested **in competitive programming **
+- 💻 I enjoy web development and I am also interested **in competitive programming**
 
 - 📫 How to reach me :**isakshy18@gmail.com**
 
