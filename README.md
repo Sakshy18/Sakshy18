@@ -1,7 +1,10 @@
 
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">An inquisitive person who likes to code :)</h3>
+<hr style="height:2px;border-width:0;color:red;background-color:red">
+
+<hr style="height:1px;border-width:0;color:red;background-color:black">
 <img src="Hey! Sakshi here ).gif">
+
+<h3 align="center">An inquisitive person who likes to code</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshy18&label=Profile%20views&color=0e75b6&style=flat" alt="sakshy18" /> </p>
 
 - 👨‍🎓 I’m Sakshi Thombre currently studying in **sophomore year at DYPCOE.**
