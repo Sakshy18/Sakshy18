@@ -1,16 +1,16 @@
 
-<h1 align="center">Hi 👋, I'm Sakshi</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">An inquisitive person who likes to code :)</h3>
-<img src="bgtodo.png">
+<img src="Hey! Sakshi here ).gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshy18&label=Profile%20views&color=0e75b6&style=flat" alt="sakshy18" /> </p>
 
 - 👨‍🎓 I’m Sakshi Thombre currently studying in **sophomore year at DYPCOE.**
 
 - 🌱 I’m currently learning **Android development**
 
-- 💻 I enjoy web development and I am also interested **in competitive programming ..**
+- 💻 I enjoy web development and I am also interested **in competitive programming **
 
-- 📫 How to reach me **isakshy18@gmail.com**
+- 📫 How to reach me :**isakshy18@gmail.com**
 
 - ⚡ Fun fact **I like to paint**
 
