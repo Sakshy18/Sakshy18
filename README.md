@@ -5,7 +5,6 @@
 <img src="Hey! Sakshi here ).gif">
 
 <h3 align="center">An inquisitive person who likes to code</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshy18&label=Profile%20views&color=0e75b6&style=flat" alt="sakshy18" /> </p>
 
 - 👨‍🎓 I’m Sakshi Thombre currently studying in **sophomore year at DYPCOE.**
 
