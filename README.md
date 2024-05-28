@@ -4,15 +4,15 @@
 <hr style="height:1px;border-width:0;color:red;background-color:black">
 <img src="Hey! Sakshi here ).gif">
 
-<h3 align="center">An inquisitive person who likes to code</h3>
+<h3 align="center">An inquisitive person who likes to Code & Design</h3>
 
-- 👨‍🎓 I’m Sakshi Thombre currently studying in **sophomore year at DYPCOE.**
+- 👨‍🎓 I’m Sakshi Thombre a graduate from **DYPCOE**
 
-- 🌱 I’m currently learning **Android development**
+- 🌱 I’m currently practising **Android development**
 
-- 💻 I enjoy web development and I am also interested **in competitive programming**
+- 💻 I have explored various domains of CS like ** competitive programming**
 
-- 📫 How to reach me :**isakshy18@gmail.com**
+- 📫 Anything related to design or development, reach me at :**isakshy18@gmail.com**
 
 - ⚡ Fun fact **I like to paint**
 
